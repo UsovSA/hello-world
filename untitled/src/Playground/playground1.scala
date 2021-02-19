@@ -1,6 +1,8 @@
 package Playground
 
 object playground1 {
-printf ("Hello, world!")
+  def main(args: Array[String]) : Unit = {
+    printf("Hello, Scala!")
+  }
+
 }
-dfhjj
